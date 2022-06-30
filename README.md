@@ -1,1 +1,1 @@
-# omer-portfolio Hello, this is my portfolio website!
+Hello, this is my portfolio website!
